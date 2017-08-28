@@ -1,0 +1,1736 @@
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: classify called
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: muruga
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: 45
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: female
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: 4.22
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: 480.9
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: 99
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: 8313
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=4BP=0ECG=481SPO2=99
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: BP...1000010000
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: RR...100001000000001
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: ECG...10000100000000101000
+Jan 06, 2017 10:49:17 AM classification.TestData main
+INFO: Gene Rep::8313 of 1000010000000010100000100
+Jan 06, 2017 10:49:32 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 06, 2017 10:49:32 AM classification.TestData main
+INFO: classify called
+Jan 06, 2017 10:49:32 AM classification.TestData main
+INFO: muruga
+Jan 06, 2017 10:49:32 AM classification.TestData main
+INFO: 45
+Jan 06, 2017 10:49:32 AM classification.TestData main
+INFO: female
+Jan 06, 2017 10:49:32 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:49:32 AM classification.TestData main
+INFO: 20.86
+Jan 06, 2017 10:49:32 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:49:32 AM classification.TestData main
+INFO: 459.8
+Jan 06, 2017 10:49:32 AM classification.TestData main
+INFO: 99
+Jan 06, 2017 10:49:32 AM classification.TestData main
+INFO: 8313
+Jan 06, 2017 10:49:32 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=21BP=0ECG=460SPO2=99
+Jan 06, 2017 10:49:33 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 06, 2017 10:49:33 AM classification.TestData main
+INFO: BP...1000010000
+Jan 06, 2017 10:49:33 AM classification.TestData main
+INFO: RR...100001000001000
+Jan 06, 2017 10:49:33 AM classification.TestData main
+INFO: ECG...10000100000100010000
+Jan 06, 2017 10:49:33 AM classification.TestData main
+INFO: Gene Rep::8313 of 1000010000010001000000100
+Jan 06, 2017 10:49:46 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 06, 2017 10:49:46 AM classification.TestData main
+INFO: classify called
+Jan 06, 2017 10:49:46 AM classification.TestData main
+INFO: muruga
+Jan 06, 2017 10:49:46 AM classification.TestData main
+INFO: 45
+Jan 06, 2017 10:49:46 AM classification.TestData main
+INFO: female
+Jan 06, 2017 10:49:46 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:49:46 AM classification.TestData main
+INFO: 20.12
+Jan 06, 2017 10:49:46 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:49:46 AM classification.TestData main
+INFO: 450.1
+Jan 06, 2017 10:49:46 AM classification.TestData main
+INFO: 99
+Jan 06, 2017 10:49:46 AM classification.TestData main
+INFO: 8313
+Jan 06, 2017 10:49:46 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=20BP=0ECG=450SPO2=99
+Jan 06, 2017 10:49:47 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 06, 2017 10:49:47 AM classification.TestData main
+INFO: BP...1000010000
+Jan 06, 2017 10:49:47 AM classification.TestData main
+INFO: RR...100001000010000
+Jan 06, 2017 10:49:47 AM classification.TestData main
+INFO: ECG...10000100001000000100
+Jan 06, 2017 10:49:47 AM classification.TestData main
+INFO: Gene Rep::8313 of 1000010000100000010000100
+Jan 06, 2017 10:50:01 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 06, 2017 10:50:01 AM classification.TestData main
+INFO: classify called
+Jan 06, 2017 10:50:01 AM classification.TestData main
+INFO: muruga
+Jan 06, 2017 10:50:01 AM classification.TestData main
+INFO: 45
+Jan 06, 2017 10:50:01 AM classification.TestData main
+INFO: female
+Jan 06, 2017 10:50:01 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:50:01 AM classification.TestData main
+INFO: 19.35
+Jan 06, 2017 10:50:01 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:50:01 AM classification.TestData main
+INFO: 471.6
+Jan 06, 2017 10:50:01 AM classification.TestData main
+INFO: 99
+Jan 06, 2017 10:50:01 AM classification.TestData main
+INFO: 8313
+Jan 06, 2017 10:50:01 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=19BP=0ECG=472SPO2=99
+Jan 06, 2017 10:50:02 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 06, 2017 10:50:02 AM classification.TestData main
+INFO: BP...1000010000
+Jan 06, 2017 10:50:02 AM classification.TestData main
+INFO: RR...100001000010000
+Jan 06, 2017 10:50:02 AM classification.TestData main
+INFO: ECG...10000100001000001000
+Jan 06, 2017 10:50:02 AM classification.TestData main
+INFO: Gene Rep::8313 of 1000010000100000100000100
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: classify called
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: muruga
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: 45
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: female
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: 18.72
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: 355.9
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: 99
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: 8313
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=19BP=0ECG=356SPO2=99
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 06, 2017 10:50:15 AM classification.TestData main
+INFO: BP...1000010000
+Jan 06, 2017 10:50:16 AM classification.TestData main
+INFO: RR...100001000010000
+Jan 06, 2017 10:50:16 AM classification.TestData main
+INFO: ECG...10000100001000000001
+Jan 06, 2017 10:50:16 AM classification.TestData main
+INFO: Gene Rep::8313 of 1000010000100000000100100
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: classify called
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: muruga
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: 45
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: female
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: 18.24
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: 493.7
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: 99
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: 8313
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=18BP=0ECG=494SPO2=99
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: BP...1000010000
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: RR...100001000000100
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: ECG...10000100000010001000
+Jan 06, 2017 10:50:46 AM classification.TestData main
+INFO: Gene Rep::8313 of 1000010000001000100000100
+Jan 06, 2017 10:58:02 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 06, 2017 10:58:02 AM classification.TestData main
+INFO: classify called
+Jan 06, 2017 10:58:02 AM classification.TestData main
+INFO: pazhani
+Jan 06, 2017 10:58:02 AM classification.TestData main
+INFO: 34
+Jan 06, 2017 10:58:02 AM classification.TestData main
+INFO: male
+Jan 06, 2017 10:58:02 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:58:02 AM classification.TestData main
+INFO: 12.32
+Jan 06, 2017 10:58:02 AM classification.TestData main
+INFO: 111
+Jan 06, 2017 10:58:02 AM classification.TestData main
+INFO: 448.7
+Jan 06, 2017 10:58:02 AM classification.TestData main
+INFO: 98
+Jan 06, 2017 10:58:02 AM classification.TestData main
+INFO: 8314
+Jan 06, 2017 10:58:02 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=12BP=111ECG=449SPO2=98
+Jan 06, 2017 10:58:03 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 06, 2017 10:58:03 AM classification.TestData main
+INFO: BP...1000000100
+Jan 06, 2017 10:58:03 AM classification.TestData main
+INFO: RR...100000010000010
+Jan 06, 2017 10:58:03 AM classification.TestData main
+INFO: ECG...10000001000001000100
+Jan 06, 2017 10:58:03 AM classification.TestData main
+INFO: Gene Rep::8314 of 1000000100000100010000100
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: classify called
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: pazhani
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: 34
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: male
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: 20.28
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: 111
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: 459
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: 98
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: 8314
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=20BP=111ECG=459SPO2=98
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: BP...1000000100
+Jan 06, 2017 10:58:16 AM classification.TestData main
+INFO: RR...100000010010000
+Jan 06, 2017 10:58:17 AM classification.TestData main
+INFO: ECG...10000001001000000100
+Jan 06, 2017 10:58:17 AM classification.TestData main
+INFO: Gene Rep::8314 of 1000000100100000010000100
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: classify called
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: pazhani
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: 34
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: male
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: 19.98
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: 111
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: 465.3
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: 98
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: 8314
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=20BP=111ECG=465SPO2=98
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: BP...1000000100
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: RR...100000010010000
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: ECG...10000001001000001000
+Jan 06, 2017 10:58:34 AM classification.TestData main
+INFO: Gene Rep::8314 of 1000000100100000100000100
+Jan 06, 2017 10:58:53 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 06, 2017 10:58:53 AM classification.TestData main
+INFO: classify called
+Jan 06, 2017 10:58:53 AM classification.TestData main
+INFO: pazhani
+Jan 06, 2017 10:58:53 AM classification.TestData main
+INFO: 34
+Jan 06, 2017 10:58:53 AM classification.TestData main
+INFO: male
+Jan 06, 2017 10:58:53 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:58:53 AM classification.TestData main
+INFO: 19.5
+Jan 06, 2017 10:58:53 AM classification.TestData main
+INFO: 111
+Jan 06, 2017 10:58:53 AM classification.TestData main
+INFO: 479.7
+Jan 06, 2017 10:58:53 AM classification.TestData main
+INFO: 98
+Jan 06, 2017 10:58:53 AM classification.TestData main
+INFO: 8314
+Jan 06, 2017 10:58:53 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=20BP=111ECG=480SPO2=98
+Jan 06, 2017 10:58:54 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 06, 2017 10:58:54 AM classification.TestData main
+INFO: BP...1000000100
+Jan 06, 2017 10:58:54 AM classification.TestData main
+INFO: RR...100000010010000
+Jan 06, 2017 10:58:54 AM classification.TestData main
+INFO: ECG...10000001001000001000
+Jan 06, 2017 10:58:54 AM classification.TestData main
+INFO: Gene Rep::8314 of 1000000100100000100000100
+Jan 06, 2017 10:59:11 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 06, 2017 10:59:11 AM classification.TestData main
+INFO: classify called
+Jan 06, 2017 10:59:11 AM classification.TestData main
+INFO: pazhani
+Jan 06, 2017 10:59:11 AM classification.TestData main
+INFO: 34
+Jan 06, 2017 10:59:11 AM classification.TestData main
+INFO: male
+Jan 06, 2017 10:59:11 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:59:11 AM classification.TestData main
+INFO: 19.34
+Jan 06, 2017 10:59:11 AM classification.TestData main
+INFO: 111
+Jan 06, 2017 10:59:11 AM classification.TestData main
+INFO: 473.5
+Jan 06, 2017 10:59:11 AM classification.TestData main
+INFO: 98
+Jan 06, 2017 10:59:11 AM classification.TestData main
+INFO: 8314
+Jan 06, 2017 10:59:11 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=19BP=111ECG=474SPO2=98
+Jan 06, 2017 10:59:12 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 06, 2017 10:59:12 AM classification.TestData main
+INFO: BP...1000000100
+Jan 06, 2017 10:59:12 AM classification.TestData main
+INFO: RR...100000010010000
+Jan 06, 2017 10:59:12 AM classification.TestData main
+INFO: ECG...10000001001000001000
+Jan 06, 2017 10:59:12 AM classification.TestData main
+INFO: Gene Rep::8314 of 1000000100100000100000100
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: classify called
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: pazhani
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: 34
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: male
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: 0
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: 19.66
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: 111
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: 474.7
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: 98
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: 8314
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=20BP=111ECG=475SPO2=98
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: BP...1000000100
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: RR...100000010010000
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: ECG...10000001001000001000
+Jan 06, 2017 10:59:27 AM classification.TestData main
+INFO: Gene Rep::8314 of 1000000100100000100000100
+Jan 09, 2017 5:01:01 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:01:01 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:01:01 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:01:01 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:01:01 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:01:01 AM classification.TestData main
+INFO: 38.7
+Jan 09, 2017 5:01:01 AM classification.TestData main
+INFO: 13.02
+Jan 09, 2017 5:01:01 AM classification.TestData main
+INFO: 106
+Jan 09, 2017 5:01:01 AM classification.TestData main
+INFO: 147.5
+Jan 09, 2017 5:01:01 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:01:01 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:01:12 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:01:12 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:01:12 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:01:12 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:01:12 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:01:12 AM classification.TestData main
+INFO: 51.1
+Jan 09, 2017 5:01:12 AM classification.TestData main
+INFO: 18.81
+Jan 09, 2017 5:01:12 AM classification.TestData main
+INFO: 106
+Jan 09, 2017 5:01:12 AM classification.TestData main
+INFO: 331.3
+Jan 09, 2017 5:01:12 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:01:12 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:01:24 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: 50
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: 19.22
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: 106
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: 169.6
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: classifier process start...HR= 50RR=19BP=106ECG=170SPO2=99
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: BP...1000000100
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: RR...100000010010000
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: ECG...10000001001000000001
+Jan 09, 2017 5:01:25 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000100100000000100100
+Jan 09, 2017 5:01:39 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:01:39 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:01:39 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:01:39 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:01:39 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:01:39 AM classification.TestData main
+INFO: 50
+Jan 09, 2017 5:01:39 AM classification.TestData main
+INFO: 19.9
+Jan 09, 2017 5:01:39 AM classification.TestData main
+INFO: 106
+Jan 09, 2017 5:01:39 AM classification.TestData main
+INFO: 119.3
+Jan 09, 2017 5:01:39 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:01:39 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:01:39 AM classification.TestData main
+INFO: classifier process start...HR= 50RR=20BP=106ECG=119SPO2=99
+Jan 09, 2017 5:01:40 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:01:40 AM classification.TestData main
+INFO: BP...1000000100
+Jan 09, 2017 5:01:40 AM classification.TestData main
+INFO: RR...100000010010000
+Jan 09, 2017 5:01:40 AM classification.TestData main
+INFO: ECG...10000001001000000001
+Jan 09, 2017 5:01:40 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000100100000000100100
+Jan 09, 2017 5:01:56 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:01:56 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:01:56 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:01:56 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:01:56 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:01:56 AM classification.TestData main
+INFO: 15
+Jan 09, 2017 5:01:56 AM classification.TestData main
+INFO: 20.58
+Jan 09, 2017 5:01:56 AM classification.TestData main
+INFO: 106
+Jan 09, 2017 5:01:56 AM classification.TestData main
+INFO: 290.1
+Jan 09, 2017 5:01:56 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:01:56 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:01:56 AM classification.TestData main
+INFO: classifier process start...HR= 15RR=21BP=106ECG=290SPO2=99
+Jan 09, 2017 5:01:57 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:01:57 AM classification.TestData main
+INFO: BP...1000000100
+Jan 09, 2017 5:01:57 AM classification.TestData main
+INFO: RR...100000010001000
+Jan 09, 2017 5:01:57 AM classification.TestData main
+INFO: ECG...10000001000100000001
+Jan 09, 2017 5:01:57 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000100010000000100100
+Jan 09, 2017 5:02:12 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:02:12 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:02:12 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:02:12 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:02:12 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:02:12 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 5:02:12 AM classification.TestData main
+INFO: 21
+Jan 09, 2017 5:02:12 AM classification.TestData main
+INFO: 106
+Jan 09, 2017 5:02:12 AM classification.TestData main
+INFO: 400.5
+Jan 09, 2017 5:02:12 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:02:12 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:02:12 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=21BP=106ECG=401SPO2=99
+Jan 09, 2017 5:02:13 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:02:13 AM classification.TestData main
+INFO: BP...1000000100
+Jan 09, 2017 5:02:13 AM classification.TestData main
+INFO: RR...100000010001000
+Jan 09, 2017 5:02:13 AM classification.TestData main
+INFO: ECG...10000001000100000001
+Jan 09, 2017 5:02:13 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000100010000000100100
+Jan 09, 2017 5:02:26 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: 21.42
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: 106
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: 421.8
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=21BP=106ECG=422SPO2=99
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: BP...1000000100
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: RR...100000010001000
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: ECG...10000001000100000010
+Jan 09, 2017 5:02:27 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000100010000001000100
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: 21.72
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: 106
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: 451.3
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=22BP=106ECG=451SPO2=99
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: BP...1000000100
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: RR...100000010001000
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: ECG...10000001000100000100
+Jan 09, 2017 5:02:43 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000100010000010000100
+Jan 09, 2017 5:02:59 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:02:59 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:02:59 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:02:59 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:02:59 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:02:59 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 5:02:59 AM classification.TestData main
+INFO: 21.96
+Jan 09, 2017 5:02:59 AM classification.TestData main
+INFO: 106
+Jan 09, 2017 5:02:59 AM classification.TestData main
+INFO: 449.1
+Jan 09, 2017 5:02:59 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:02:59 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:02:59 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=22BP=106ECG=449SPO2=99
+Jan 09, 2017 5:03:00 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:03:00 AM classification.TestData main
+INFO: BP...1000000100
+Jan 09, 2017 5:03:00 AM classification.TestData main
+INFO: RR...100000010001000
+Jan 09, 2017 5:03:00 AM classification.TestData main
+INFO: ECG...10000001000100000100
+Jan 09, 2017 5:03:00 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000100010000010000100
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: 22.18
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: 106
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: 452.2
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=22BP=106ECG=452SPO2=99
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: BP...1000000100
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: RR...100000010001000
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: ECG...10000001000100000100
+Jan 09, 2017 5:03:15 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000100010000010000100
+Jan 09, 2017 5:05:12 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:05:12 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:05:12 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:05:12 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:05:12 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:05:12 AM classification.TestData main
+INFO: 17.5
+Jan 09, 2017 5:05:12 AM classification.TestData main
+INFO: 6.43
+Jan 09, 2017 5:05:12 AM classification.TestData main
+INFO: 66
+Jan 09, 2017 5:05:12 AM classification.TestData main
+INFO: 160
+Jan 09, 2017 5:05:12 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:05:12 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:05:23 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:05:24 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:05:24 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:05:24 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:05:24 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:05:24 AM classification.TestData main
+INFO: 24.5
+Jan 09, 2017 5:05:24 AM classification.TestData main
+INFO: 13.74
+Jan 09, 2017 5:05:24 AM classification.TestData main
+INFO: 66
+Jan 09, 2017 5:05:24 AM classification.TestData main
+INFO: 193
+Jan 09, 2017 5:05:24 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:05:24 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: 14.45
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: 66
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: 299
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=14BP=66ECG=299SPO2=99
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: BP...1000000001
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: RR...100000000110000
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: ECG...10000000011000000001
+Jan 09, 2017 5:05:35 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000001100000000100100
+Jan 09, 2017 5:05:49 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:05:49 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:05:49 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:05:49 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:05:49 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:05:49 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 5:05:49 AM classification.TestData main
+INFO: 14.88
+Jan 09, 2017 5:05:49 AM classification.TestData main
+INFO: 66
+Jan 09, 2017 5:05:49 AM classification.TestData main
+INFO: 299
+Jan 09, 2017 5:05:49 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:05:49 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:05:49 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=15BP=66ECG=299SPO2=99
+Jan 09, 2017 5:05:50 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:05:50 AM classification.TestData main
+INFO: BP...1000000001
+Jan 09, 2017 5:05:50 AM classification.TestData main
+INFO: RR...100000000110000
+Jan 09, 2017 5:05:50 AM classification.TestData main
+INFO: ECG...10000000011000000001
+Jan 09, 2017 5:05:50 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000001100000000100100
+Jan 09, 2017 5:06:03 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:06:03 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:06:03 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:06:03 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:06:03 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:06:03 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 5:06:03 AM classification.TestData main
+INFO: 15.26
+Jan 09, 2017 5:06:03 AM classification.TestData main
+INFO: 66
+Jan 09, 2017 5:06:03 AM classification.TestData main
+INFO: 307.5
+Jan 09, 2017 5:06:03 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:06:03 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:06:03 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=15BP=66ECG=308SPO2=99
+Jan 09, 2017 5:06:04 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:06:04 AM classification.TestData main
+INFO: BP...1000000001
+Jan 09, 2017 5:06:04 AM classification.TestData main
+INFO: RR...100000000110000
+Jan 09, 2017 5:06:04 AM classification.TestData main
+INFO: ECG...10000000011000000001
+Jan 09, 2017 5:06:04 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000001100000000100100
+Jan 09, 2017 5:06:17 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:06:17 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:06:17 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:06:17 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:06:17 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:06:17 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 5:06:17 AM classification.TestData main
+INFO: 15.02
+Jan 09, 2017 5:06:17 AM classification.TestData main
+INFO: 66
+Jan 09, 2017 5:06:17 AM classification.TestData main
+INFO: 414.3
+Jan 09, 2017 5:06:17 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:06:17 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:06:17 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=15BP=66ECG=414SPO2=99
+Jan 09, 2017 5:06:18 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:06:18 AM classification.TestData main
+INFO: BP...1000000001
+Jan 09, 2017 5:06:18 AM classification.TestData main
+INFO: RR...100000000110000
+Jan 09, 2017 5:06:18 AM classification.TestData main
+INFO: ECG...10000000011000000010
+Jan 09, 2017 5:06:18 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000001100000001000100
+Jan 09, 2017 5:24:11 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:24:11 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:24:11 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:24:11 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:24:11 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:24:11 AM classification.TestData main
+INFO: 24
+Jan 09, 2017 5:24:11 AM classification.TestData main
+INFO: 4.98
+Jan 09, 2017 5:24:11 AM classification.TestData main
+INFO: 87
+Jan 09, 2017 5:24:11 AM classification.TestData main
+INFO: 435
+Jan 09, 2017 5:24:11 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:24:11 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:24:11 AM classification.TestData main
+INFO: classifier process start...HR= 24RR=5BP=87ECG=435SPO2=99
+Jan 09, 2017 5:24:12 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:24:12 AM classification.TestData main
+INFO: BP...1000000010
+Jan 09, 2017 5:24:12 AM classification.TestData main
+INFO: RR...100000001000001
+Jan 09, 2017 5:24:12 AM classification.TestData main
+INFO: ECG...10000000100000100100
+Jan 09, 2017 5:24:12 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000010000010010000100
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: 79
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: 16.66
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: 87
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: 499.2
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: classifier process start...HR= 79RR=17BP=87ECG=499SPO2=99
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:24:35 AM classification.TestData main
+INFO: BP...1000000010
+Jan 09, 2017 5:24:36 AM classification.TestData main
+INFO: RR...100000001000100
+Jan 09, 2017 5:24:36 AM classification.TestData main
+INFO: ECG...10000000100010001000
+Jan 09, 2017 5:24:36 AM classification.TestData main
+INFO: Gene Rep::8315 of 1000000010001000100000100
+Jan 09, 2017 5:24:53 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:24:53 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:24:53 AM classification.TestData main
+INFO: chitra
+Jan 09, 2017 5:24:53 AM classification.TestData main
+INFO: 45
+Jan 09, 2017 5:24:53 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:24:53 AM classification.TestData main
+INFO: 69.4
+Jan 09, 2017 5:24:53 AM classification.TestData main
+INFO: 17.1
+Jan 09, 2017 5:24:53 AM classification.TestData main
+INFO: 87
+Jan 09, 2017 5:24:53 AM classification.TestData main
+INFO: 480.7
+Jan 09, 2017 5:24:53 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 5:24:53 AM classification.TestData main
+INFO: 8315
+Jan 09, 2017 5:49:28 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:49:28 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:49:28 AM classification.TestData main
+INFO: ganga
+Jan 09, 2017 5:49:28 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 5:49:28 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:49:28 AM classification.TestData main
+INFO: 54.4
+Jan 09, 2017 5:49:28 AM classification.TestData main
+INFO: 11.46
+Jan 09, 2017 5:49:28 AM classification.TestData main
+INFO: 101
+Jan 09, 2017 5:49:28 AM classification.TestData main
+INFO: 462.8
+Jan 09, 2017 5:49:28 AM classification.TestData main
+INFO: 100
+Jan 09, 2017 5:49:28 AM classification.TestData main
+INFO: 8316
+Jan 09, 2017 5:49:39 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:49:39 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:49:39 AM classification.TestData main
+INFO: ganga
+Jan 09, 2017 5:49:39 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 5:49:39 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:49:39 AM classification.TestData main
+INFO: 116
+Jan 09, 2017 5:49:39 AM classification.TestData main
+INFO: 19.26
+Jan 09, 2017 5:49:39 AM classification.TestData main
+INFO: 101
+Jan 09, 2017 5:49:39 AM classification.TestData main
+INFO: 480.8
+Jan 09, 2017 5:49:39 AM classification.TestData main
+INFO: 100
+Jan 09, 2017 5:49:39 AM classification.TestData main
+INFO: 8316
+Jan 09, 2017 5:49:39 AM classification.TestData main
+INFO: classifier process start...HR= 116RR=19BP=101ECG=481SPO2=100
+Jan 09, 2017 5:49:40 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:49:40 AM classification.TestData main
+INFO: BP...1000000100
+Jan 09, 2017 5:49:40 AM classification.TestData main
+INFO: RR...100000010010000
+Jan 09, 2017 5:49:40 AM classification.TestData main
+INFO: ECG...10000001001000001000
+Jan 09, 2017 5:49:40 AM classification.TestData main
+INFO: Gene Rep::8316 of 1000000100100000100000100
+Jan 09, 2017 5:49:54 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:49:54 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:49:54 AM classification.TestData main
+INFO: ganga
+Jan 09, 2017 5:49:54 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 5:49:54 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:49:54 AM classification.TestData main
+INFO: 123.6
+Jan 09, 2017 5:49:54 AM classification.TestData main
+INFO: 19.08
+Jan 09, 2017 5:49:54 AM classification.TestData main
+INFO: 101
+Jan 09, 2017 5:49:54 AM classification.TestData main
+INFO: 471.1
+Jan 09, 2017 5:49:54 AM classification.TestData main
+INFO: 100
+Jan 09, 2017 5:49:54 AM classification.TestData main
+INFO: 8316
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: ganga
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: 124
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: 18.96
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: 101
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: 475.8
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: 100
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: 8316
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: classifier process start...HR= 124RR=19BP=101ECG=476SPO2=100
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: BP...1000000100
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: RR...100000010010000
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: ECG...10000001001000001000
+Jan 09, 2017 5:50:06 AM classification.TestData main
+INFO: Gene Rep::8316 of 1000000100100000100000100
+Jan 09, 2017 5:50:19 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:50:19 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:50:19 AM classification.TestData main
+INFO: ganga
+Jan 09, 2017 5:50:19 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 5:50:19 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:50:19 AM classification.TestData main
+INFO: 123.8
+Jan 09, 2017 5:50:19 AM classification.TestData main
+INFO: 18.84
+Jan 09, 2017 5:50:19 AM classification.TestData main
+INFO: 101
+Jan 09, 2017 5:50:19 AM classification.TestData main
+INFO: 471.3
+Jan 09, 2017 5:50:19 AM classification.TestData main
+INFO: 100
+Jan 09, 2017 5:50:19 AM classification.TestData main
+INFO: 8316
+Jan 09, 2017 5:50:30 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:50:30 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:50:30 AM classification.TestData main
+INFO: ganga
+Jan 09, 2017 5:50:30 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 5:50:30 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:50:30 AM classification.TestData main
+INFO: 124.3
+Jan 09, 2017 5:50:30 AM classification.TestData main
+INFO: 18.76
+Jan 09, 2017 5:50:30 AM classification.TestData main
+INFO: 101
+Jan 09, 2017 5:50:30 AM classification.TestData main
+INFO: 469.6
+Jan 09, 2017 5:50:30 AM classification.TestData main
+INFO: 100
+Jan 09, 2017 5:50:30 AM classification.TestData main
+INFO: 8316
+Jan 09, 2017 5:50:41 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:50:41 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:50:41 AM classification.TestData main
+INFO: ganga
+Jan 09, 2017 5:50:41 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 5:50:41 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:50:41 AM classification.TestData main
+INFO: 125.3
+Jan 09, 2017 5:50:41 AM classification.TestData main
+INFO: 18.22
+Jan 09, 2017 5:50:41 AM classification.TestData main
+INFO: 101
+Jan 09, 2017 5:50:41 AM classification.TestData main
+INFO: 470.7
+Jan 09, 2017 5:50:41 AM classification.TestData main
+INFO: 100
+Jan 09, 2017 5:50:41 AM classification.TestData main
+INFO: 8316
+Jan 09, 2017 5:50:52 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:50:52 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:50:52 AM classification.TestData main
+INFO: ganga
+Jan 09, 2017 5:50:52 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 5:50:52 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:50:52 AM classification.TestData main
+INFO: 126.1
+Jan 09, 2017 5:50:52 AM classification.TestData main
+INFO: 17.5
+Jan 09, 2017 5:50:52 AM classification.TestData main
+INFO: 101
+Jan 09, 2017 5:50:52 AM classification.TestData main
+INFO: 471.2
+Jan 09, 2017 5:50:52 AM classification.TestData main
+INFO: 100
+Jan 09, 2017 5:50:52 AM classification.TestData main
+INFO: 8316
+Jan 09, 2017 5:51:03 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:51:03 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:51:03 AM classification.TestData main
+INFO: ganga
+Jan 09, 2017 5:51:03 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 5:51:03 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:51:03 AM classification.TestData main
+INFO: 128.3
+Jan 09, 2017 5:51:03 AM classification.TestData main
+INFO: 16.85
+Jan 09, 2017 5:51:03 AM classification.TestData main
+INFO: 101
+Jan 09, 2017 5:51:03 AM classification.TestData main
+INFO: 463.9
+Jan 09, 2017 5:51:03 AM classification.TestData main
+INFO: 100
+Jan 09, 2017 5:51:03 AM classification.TestData main
+INFO: 8316
+Jan 09, 2017 5:51:14 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:51:14 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:51:14 AM classification.TestData main
+INFO: ganga
+Jan 09, 2017 5:51:14 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 5:51:14 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:51:14 AM classification.TestData main
+INFO: 130.9
+Jan 09, 2017 5:51:14 AM classification.TestData main
+INFO: 16.21
+Jan 09, 2017 5:51:14 AM classification.TestData main
+INFO: 101
+Jan 09, 2017 5:51:14 AM classification.TestData main
+INFO: 473
+Jan 09, 2017 5:51:14 AM classification.TestData main
+INFO: 100
+Jan 09, 2017 5:51:14 AM classification.TestData main
+INFO: 8316
+Jan 09, 2017 5:51:26 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:51:26 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:51:26 AM classification.TestData main
+INFO: ganga
+Jan 09, 2017 5:51:26 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 5:51:26 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:51:26 AM classification.TestData main
+INFO: 132
+Jan 09, 2017 5:51:26 AM classification.TestData main
+INFO: 15.68
+Jan 09, 2017 5:51:26 AM classification.TestData main
+INFO: 101
+Jan 09, 2017 5:51:26 AM classification.TestData main
+INFO: 474.4
+Jan 09, 2017 5:51:26 AM classification.TestData main
+INFO: 100
+Jan 09, 2017 5:51:26 AM classification.TestData main
+INFO: 8316
+Jan 09, 2017 5:51:26 AM classification.TestData main
+INFO: classifier process start...HR= 132RR=16BP=101ECG=474SPO2=100
+Jan 09, 2017 5:51:27 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 5:51:27 AM classification.TestData main
+INFO: BP...1000000100
+Jan 09, 2017 5:51:27 AM classification.TestData main
+INFO: RR...100000010000100
+Jan 09, 2017 5:51:27 AM classification.TestData main
+INFO: ECG...10000001000010001000
+Jan 09, 2017 5:51:27 AM classification.TestData main
+INFO: Gene Rep::8316 of 1000000100001000100000100
+Jan 09, 2017 5:51:40 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 5:51:40 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 5:51:40 AM classification.TestData main
+INFO: ganga
+Jan 09, 2017 5:51:40 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 5:51:40 AM classification.TestData main
+INFO: female
+Jan 09, 2017 5:51:40 AM classification.TestData main
+INFO: 133.6
+Jan 09, 2017 5:51:40 AM classification.TestData main
+INFO: 15.25
+Jan 09, 2017 5:51:40 AM classification.TestData main
+INFO: 101
+Jan 09, 2017 5:51:40 AM classification.TestData main
+INFO: 470
+Jan 09, 2017 5:51:40 AM classification.TestData main
+INFO: 100
+Jan 09, 2017 5:51:40 AM classification.TestData main
+INFO: 8316
+Jan 09, 2017 6:01:38 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 6:01:38 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 6:01:38 AM classification.TestData main
+INFO: meenakshi
+Jan 09, 2017 6:01:38 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 6:01:38 AM classification.TestData main
+INFO: female
+Jan 09, 2017 6:01:38 AM classification.TestData main
+INFO: 50.5
+Jan 09, 2017 6:01:38 AM classification.TestData main
+INFO: 12.74
+Jan 09, 2017 6:01:38 AM classification.TestData main
+INFO: 126
+Jan 09, 2017 6:01:38 AM classification.TestData main
+INFO: 440.8
+Jan 09, 2017 6:01:38 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 6:01:38 AM classification.TestData main
+INFO: 8317
+Jan 09, 2017 6:01:50 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 6:01:50 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 6:01:50 AM classification.TestData main
+INFO: meenakshi
+Jan 09, 2017 6:01:50 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 6:01:50 AM classification.TestData main
+INFO: female
+Jan 09, 2017 6:01:50 AM classification.TestData main
+INFO: 71.6
+Jan 09, 2017 6:01:50 AM classification.TestData main
+INFO: 18.11
+Jan 09, 2017 6:01:50 AM classification.TestData main
+INFO: 126
+Jan 09, 2017 6:01:50 AM classification.TestData main
+INFO: 466.9
+Jan 09, 2017 6:01:50 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 6:01:50 AM classification.TestData main
+INFO: 8317
+Jan 09, 2017 6:02:01 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 6:02:01 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 6:02:01 AM classification.TestData main
+INFO: meenakshi
+Jan 09, 2017 6:02:01 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 6:02:01 AM classification.TestData main
+INFO: female
+Jan 09, 2017 6:02:01 AM classification.TestData main
+INFO: 73
+Jan 09, 2017 6:02:01 AM classification.TestData main
+INFO: 18.07
+Jan 09, 2017 6:02:01 AM classification.TestData main
+INFO: 126
+Jan 09, 2017 6:02:01 AM classification.TestData main
+INFO: 474
+Jan 09, 2017 6:02:01 AM classification.TestData main
+INFO: 99
+Jan 09, 2017 6:02:01 AM classification.TestData main
+INFO: 8317
+Jan 09, 2017 6:02:01 AM classification.TestData main
+INFO: classifier process start...HR= 73RR=18BP=126ECG=474SPO2=99
+Jan 09, 2017 6:02:02 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 6:02:02 AM classification.TestData main
+INFO: BP...1000001000
+Jan 09, 2017 6:02:02 AM classification.TestData main
+INFO: RR...100000100000100
+Jan 09, 2017 6:02:02 AM classification.TestData main
+INFO: ECG...10000010000010001000
+Jan 09, 2017 6:02:02 AM classification.TestData main
+INFO: Gene Rep::8317 of 1000001000001000100000100
+Jan 09, 2017 6:09:50 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 6:09:50 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 6:09:50 AM classification.TestData main
+INFO: meenakshi
+Jan 09, 2017 6:09:50 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 6:09:50 AM classification.TestData main
+INFO: female
+Jan 09, 2017 6:09:50 AM classification.TestData main
+INFO: 31.6
+Jan 09, 2017 6:09:50 AM classification.TestData main
+INFO: 5.96
+Jan 09, 2017 6:09:50 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:09:50 AM classification.TestData main
+INFO: 418.2
+Jan 09, 2017 6:09:50 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:09:50 AM classification.TestData main
+INFO: 8317
+Jan 09, 2017 6:10:01 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 6:10:01 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 6:10:01 AM classification.TestData main
+INFO: meenakshi
+Jan 09, 2017 6:10:01 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 6:10:01 AM classification.TestData main
+INFO: female
+Jan 09, 2017 6:10:01 AM classification.TestData main
+INFO: 80
+Jan 09, 2017 6:10:01 AM classification.TestData main
+INFO: 15.26
+Jan 09, 2017 6:10:01 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:10:01 AM classification.TestData main
+INFO: 473
+Jan 09, 2017 6:10:01 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:10:01 AM classification.TestData main
+INFO: 8317
+Jan 09, 2017 6:10:01 AM classification.TestData main
+INFO: classifier process start...HR= 80RR=15BP=0ECG=473SPO2=0
+Jan 09, 2017 6:10:02 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 6:10:02 AM classification.TestData main
+INFO: BP...1000010000
+Jan 09, 2017 6:10:02 AM classification.TestData main
+INFO: RR...100001000010000
+Jan 09, 2017 6:10:02 AM classification.TestData main
+INFO: ECG...10000100001000001000
+Jan 09, 2017 6:10:02 AM classification.TestData main
+INFO: Gene Rep::8317 of 1000010000100000100000001
+Jan 09, 2017 6:13:35 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 6:13:35 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 6:13:35 AM classification.TestData main
+INFO: meenakshi
+Jan 09, 2017 6:13:35 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 6:13:35 AM classification.TestData main
+INFO: female
+Jan 09, 2017 6:13:35 AM classification.TestData main
+INFO: 72
+Jan 09, 2017 6:13:35 AM classification.TestData main
+INFO: 14.51
+Jan 09, 2017 6:13:35 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:13:35 AM classification.TestData main
+INFO: 389.8
+Jan 09, 2017 6:13:35 AM classification.TestData main
+INFO: 9.8
+Jan 09, 2017 6:13:35 AM classification.TestData main
+INFO: 8317
+Jan 09, 2017 6:13:46 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 6:13:47 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 6:13:47 AM classification.TestData main
+INFO: meenakshi
+Jan 09, 2017 6:13:47 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 6:13:47 AM classification.TestData main
+INFO: female
+Jan 09, 2017 6:13:47 AM classification.TestData main
+INFO: 52.2
+Jan 09, 2017 6:13:47 AM classification.TestData main
+INFO: 13.53
+Jan 09, 2017 6:13:47 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:13:47 AM classification.TestData main
+INFO: 461.9
+Jan 09, 2017 6:13:47 AM classification.TestData main
+INFO: 98
+Jan 09, 2017 6:13:47 AM classification.TestData main
+INFO: 8317
+Jan 09, 2017 6:13:59 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 6:13:59 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 6:13:59 AM classification.TestData main
+INFO: meenakshi
+Jan 09, 2017 6:13:59 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 6:13:59 AM classification.TestData main
+INFO: female
+Jan 09, 2017 6:13:59 AM classification.TestData main
+INFO: 96
+Jan 09, 2017 6:13:59 AM classification.TestData main
+INFO: 22.85
+Jan 09, 2017 6:13:59 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:13:59 AM classification.TestData main
+INFO: 460.6
+Jan 09, 2017 6:13:59 AM classification.TestData main
+INFO: 98
+Jan 09, 2017 6:13:59 AM classification.TestData main
+INFO: 8317
+Jan 09, 2017 6:13:59 AM classification.TestData main
+INFO: classifier process start...HR= 96RR=23BP=0ECG=461SPO2=98
+Jan 09, 2017 6:14:00 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 6:14:00 AM classification.TestData main
+INFO: BP...1000010000
+Jan 09, 2017 6:14:00 AM classification.TestData main
+INFO: RR...100001000010000
+Jan 09, 2017 6:14:00 AM classification.TestData main
+INFO: ECG...10000100001000010000
+Jan 09, 2017 6:14:00 AM classification.TestData main
+INFO: Gene Rep::8317 of 1000010000100001000000100
+Jan 09, 2017 6:14:13 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 6:14:13 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 6:14:13 AM classification.TestData main
+INFO: meenakshi
+Jan 09, 2017 6:14:13 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 6:14:13 AM classification.TestData main
+INFO: female
+Jan 09, 2017 6:14:13 AM classification.TestData main
+INFO: 96
+Jan 09, 2017 6:14:13 AM classification.TestData main
+INFO: 22.97
+Jan 09, 2017 6:14:13 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:14:13 AM classification.TestData main
+INFO: 465.6
+Jan 09, 2017 6:14:13 AM classification.TestData main
+INFO: 98
+Jan 09, 2017 6:14:13 AM classification.TestData main
+INFO: 8317
+Jan 09, 2017 6:14:13 AM classification.TestData main
+INFO: classifier process start...HR= 96RR=23BP=0ECG=466SPO2=98
+Jan 09, 2017 6:14:14 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 6:14:14 AM classification.TestData main
+INFO: BP...1000010000
+Jan 09, 2017 6:14:14 AM classification.TestData main
+INFO: RR...100001000010000
+Jan 09, 2017 6:14:14 AM classification.TestData main
+INFO: ECG...10000100001000001000
+Jan 09, 2017 6:14:14 AM classification.TestData main
+INFO: Gene Rep::8317 of 1000010000100000100000100
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: meenakshi
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: female
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: 8.96
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: 450.1
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: 98
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: 8317
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=9BP=0ECG=450SPO2=98
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: BP...1000010000
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: RR...100001000000001
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: ECG...10000100000000100100
+Jan 09, 2017 6:30:30 AM classification.TestData main
+INFO: Gene Rep::8317 of 1000010000000010010000100
+Jan 09, 2017 6:34:13 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 6:34:13 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 6:34:13 AM classification.TestData main
+INFO: meenakshi
+Jan 09, 2017 6:34:13 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 6:34:13 AM classification.TestData main
+INFO: female
+Jan 09, 2017 6:34:13 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:34:13 AM classification.TestData main
+INFO: 9.71
+Jan 09, 2017 6:34:13 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:34:13 AM classification.TestData main
+INFO: 462.8
+Jan 09, 2017 6:34:13 AM classification.TestData main
+INFO: 98
+Jan 09, 2017 6:34:13 AM classification.TestData main
+INFO: 8317
+Jan 09, 2017 6:34:13 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=10BP=0ECG=463SPO2=98
+Jan 09, 2017 6:34:14 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 6:34:14 AM classification.TestData main
+INFO: BP...1000010000
+Jan 09, 2017 6:34:14 AM classification.TestData main
+INFO: RR...100001000010000
+Jan 09, 2017 6:34:14 AM classification.TestData main
+INFO: ECG...10000100001000001000
+Jan 09, 2017 6:34:14 AM classification.TestData main
+INFO: Gene Rep::8317 of 1000010000100000100000100
+Jan 09, 2017 6:34:27 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 6:34:27 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 6:34:27 AM classification.TestData main
+INFO: meenakshi
+Jan 09, 2017 6:34:27 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 6:34:27 AM classification.TestData main
+INFO: female
+Jan 09, 2017 6:34:27 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:34:27 AM classification.TestData main
+INFO: 21.4
+Jan 09, 2017 6:34:27 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:34:27 AM classification.TestData main
+INFO: 442.6
+Jan 09, 2017 6:34:27 AM classification.TestData main
+INFO: 98
+Jan 09, 2017 6:34:27 AM classification.TestData main
+INFO: 8317
+Jan 09, 2017 6:34:27 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=21BP=0ECG=443SPO2=98
+Jan 09, 2017 6:34:28 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 6:34:28 AM classification.TestData main
+INFO: BP...1000010000
+Jan 09, 2017 6:34:28 AM classification.TestData main
+INFO: RR...100001000001000
+Jan 09, 2017 6:34:28 AM classification.TestData main
+INFO: ECG...10000100000100000100
+Jan 09, 2017 6:34:28 AM classification.TestData main
+INFO: Gene Rep::8317 of 1000010000010000010000100
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: classify called
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: meenakshi
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: 65
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: female
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: 15.04
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: 0
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: 433.7
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: 98
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: 8317
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=15BP=0ECG=434SPO2=98
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: BP...1000010000
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: RR...100001000010000
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: ECG...10000100001000000100
+Jan 09, 2017 6:50:50 AM classification.TestData main
+INFO: Gene Rep::8317 of 1000010000100000010000100
+Jan 10, 2017 6:37:04 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 10, 2017 6:37:04 AM classification.TestData main
+INFO: classify called
+Jan 10, 2017 6:37:04 AM classification.TestData main
+INFO: meenakshi
+Jan 10, 2017 6:37:04 AM classification.TestData main
+INFO: 65
+Jan 10, 2017 6:37:04 AM classification.TestData main
+INFO: female
+Jan 10, 2017 6:37:04 AM classification.TestData main
+INFO: 3.6
+Jan 10, 2017 6:37:04 AM classification.TestData main
+INFO: 7.27
+Jan 10, 2017 6:37:04 AM classification.TestData main
+INFO: 0
+Jan 10, 2017 6:37:04 AM classification.TestData main
+INFO: 475.6
+Jan 10, 2017 6:37:04 AM classification.TestData main
+INFO: 98.6
+Jan 10, 2017 6:37:04 AM classification.TestData main
+INFO: 8317
+Jan 10, 2017 6:37:16 AM classification.TestData main
+INFO: Abnormality checking...
+Jan 10, 2017 6:37:16 AM classification.TestData main
+INFO: classify called
+Jan 10, 2017 6:37:16 AM classification.TestData main
+INFO: meenakshi
+Jan 10, 2017 6:37:16 AM classification.TestData main
+INFO: 65
+Jan 10, 2017 6:37:16 AM classification.TestData main
+INFO: female
+Jan 10, 2017 6:37:16 AM classification.TestData main
+INFO: 0
+Jan 10, 2017 6:37:16 AM classification.TestData main
+INFO: 18.35
+Jan 10, 2017 6:37:16 AM classification.TestData main
+INFO: 0
+Jan 10, 2017 6:37:16 AM classification.TestData main
+INFO: 482.7
+Jan 10, 2017 6:37:16 AM classification.TestData main
+INFO: 99
+Jan 10, 2017 6:37:16 AM classification.TestData main
+INFO: 8317
+Jan 10, 2017 6:37:16 AM classification.TestData main
+INFO: classifier process start...HR= 0RR=18BP=0ECG=483SPO2=99
+Jan 10, 2017 6:37:17 AM classification.TestData main
+INFO: heartrate done...10000
+Jan 10, 2017 6:37:17 AM classification.TestData main
+INFO: BP...1000010000
+Jan 10, 2017 6:37:17 AM classification.TestData main
+INFO: RR...100001000000100
+Jan 10, 2017 6:37:17 AM classification.TestData main
+INFO: ECG...10000100000010001000
+Jan 10, 2017 6:37:17 AM classification.TestData main
+INFO: Gene Rep::8317 of 1000010000001000100000100
+Apr 06, 2017 3:13:28 AM classification.TestData main
+INFO: Abnormality checking...
+Apr 06, 2017 3:13:28 AM classification.TestData main
+INFO: classify called
